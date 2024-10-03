@@ -21,11 +21,7 @@ This repository contains the MATLAB implementation of a project aimed at tuning 
 - `/docs`: Full project report and assignment details.
 
 ### Usage
-To run the simulations, download the repository and open the files in MATLAB:
-
-```bash
-git clone https://github.com/Pouria-MK/_Jan.2024_PI-Controller-Tuning-for-a-CSTR-System-with-MATLAB.git
-```
+To run the simulations, download the repository and open the files in MATLAB.
 Ensure that you have MATLAB and Simulink installed on your system.
 
 ### Conclusion
