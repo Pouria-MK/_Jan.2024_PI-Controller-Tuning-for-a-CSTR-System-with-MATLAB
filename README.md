@@ -37,4 +37,4 @@ This project demonstrates an effective approach to temperature control in a CSTR
 - Extension to multi-variable control problems.
 
 ### Contact
-For any queries, feel free to reach out via email at [[pooriamotahari@gmail.com](mailto:pooriamotahari@gmail.com)] or through [[GitHub](https://github.com/Pouria-MK)].
+For any queries, feel free to reach out via email at [pooriamotahari@gmail.com](mailto:pooriamotahari@gmail.com) or through [GitHub](https://github.com/Pouria-MK).
